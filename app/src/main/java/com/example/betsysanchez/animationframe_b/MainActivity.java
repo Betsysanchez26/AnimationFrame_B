@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         if (monkeyAnimation.isRunning()) {
             monkeyAnimation.stop();
         }
-        monkeyAnimation.start();
+            monkeyAnimation.start();
     }
 
     public void onStopBtnClick(View v) {
